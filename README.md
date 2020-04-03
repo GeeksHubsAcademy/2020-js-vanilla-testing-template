@@ -1,5 +1,4 @@
 # 2020-js-vanilla-testing-template
-# 2020-js-vanilla-testing-004
 
 <p align="center">
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
